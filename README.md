@@ -3,10 +3,10 @@
 ## Complete the madlib by filling in the missing word list. 
 
 ### Step 1
-One person from the group forks this repository and invites the rest of the group to this repository as collaborators. 
+One person from the group forks this repository and invites the rest of the group to their forked repository as collaborators. 
 
 ### Step 2
-All the team members clone the repository that the first person forked (type git clone https://github.com/masgaril/Madlib_Activity.git into your terminal (Mac)/git bash (Windows))
+All the team members clone the forked repository.
 
 ### Step 3
 One person from the group
@@ -22,7 +22,9 @@ Next person:
 - pushes the revised text file back to the repository. 
 
 ### Other Steps
-Continue Step 2 until all the missing words in Madlib_Activity file are filled out. 
+Repeat Step 2 until all the missing words in Madlib_Activity file are filled out. 
 
 ### Last Step
-Download Story file from Slack into your Madlib_Activity folder.  Fill in the story file with words from the final version of your Madlib_Activity textfile. Push the story file to your group's github repository.
+Download Story_File from Slack into your Madlib_Activity folder.  Fill in the Story_File with words from the final version of your Madlib_Activity textfile. Push the Story_File to your group's github repository. 
+
+### Read the story you created within your group! 

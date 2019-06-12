@@ -3,7 +3,11 @@
 ## Complete the madlib by filling in the missing word list. 
 
 ### Step 1
-First person clones/downloads this repository, opens the Madlib_Activity text file, fills out the first missing word, and pushes the revised text file back to the repository. 
+- First person clones this repository (type git clone https://github.com/masgaril/Madlib_Activity.git into your terminal (Mac)/git bash (Windows))
+- Invites the rest of the group to this repository as collaborators
+- Opens the Madlib_Activity text file
+- Fills out the first missing word 
+- Pushes the revised text file back to the repository. 
 
 ### Step 2
 Next person pulls the repository, opens the Madlib_Activity text file, fills out the next missing word, and pushes the revised text file back to the repository. 

@@ -25,6 +25,6 @@ Next person:
 Repeat Step 2 until all the missing words in Madlib_Activity file are filled out. 
 
 ### Last Step
-Download Story_File from Slack into your Madlib_Activity folder.  Fill in the Story_File with words from the final version of your Madlib_Activity textfile. Push the Story_File to your group's github repository. 
+Download Story_File from Slack into your `Madlib_Activity` folder.  Fill in the `Story_File` with words from the final version of your `Madlib_Activity` textfile. Push the `Story_File` to your group's github repository. 
 
 ### Read the story you created within your group! 

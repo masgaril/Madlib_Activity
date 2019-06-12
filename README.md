@@ -6,7 +6,7 @@
 One person from the group forks this repository and invites the rest of the group to their forked repository as collaborators. 
 
 ### Step 2
-All the team members clone the forked repository.
+All the team members accept the collaboration invitation, "watch" the forked repository and clone it.
 
 ### Step 3
 One person from the group
